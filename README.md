@@ -1,6 +1,6 @@
 # Deep learning for computer vision Fundamentals
 
-This is part of the course `DSR Feb 2024 Batch 37
+This is part of the DSR course
 
 ## Curriculum + Rough time to spend
 
